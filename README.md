@@ -36,12 +36,12 @@
 - [Rádio Renascença](https://gitlab.com/Renascenca/dados) &mdash; Dados e código na base das histórias e interactivos em rr.sapo.pt
 - [Portal do Clima](http://portaldoclima.pt/en/) &mdash; Dados de clima.
 
-##Lisboa
+## Lisboa
 
 - [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/) &mdash; Portal de dados abertos de Lisboa.
 - [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
 - [Cascais Data](https://data.cascais.pt/pt-pt) &mdash; Portal de dados abertos de Cascais.
 
-##Porto
+## Porto
 
 - [Dados Abertos do Porto](http://dadosabertos.cm-porto.pt/) &mdash; Portal de dados abertos do Porto.
