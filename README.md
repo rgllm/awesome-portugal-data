@@ -27,6 +27,8 @@
 - [Viana do Castelo](#vianadocastelo)
 - [Vila Real](#vilareal)
 - [Viseu](#viseu)
+- [Madeira](#madeira)
+- [Açores](#acores)
 
 ## Portugal
 
@@ -35,12 +37,21 @@
 - [Papis List](http://www.papislist.com/) &mdash; APIs públicas de todos os países
 - [Rádio Renascença](https://gitlab.com/Renascenca/dados) &mdash; Dados e código na base das histórias e interactivos em rr.sapo.pt
 - [Portal do Clima](http://portaldoclima.pt/en/) &mdash; Dados de clima.
+- [Infraestruturas de Portugal](http://www.infraestruturasdeportugal.pt/negocios-e-servicos/horarios/) &mdash; Horários e estado de circulação dos comboios.
+- [Dados na Justiça](https://dados.justica.gov.pt/) &mdash; Dados do Ministério da Justiça
+
+##Braga
+
+- [Dados Abertos de Guimarães](http://sig.cm-guimaraes.pt/dadosabertos/) &mdash; Portal de dados abertos de Guimarães.
+- [Transportes Urbanos de Braga](https://tub.pt/downloads/) &mdash; Portal de dados da TUB(Transportes Urbanos de Braga)
+
 
 ## Lisboa
 
 - [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/) &mdash; Portal de dados abertos de Lisboa.
 - [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
 - [Cascais Data](https://data.cascais.pt/pt-pt) &mdash; Portal de dados abertos de Cascais.
+- [Transportlis](http://www.transporlis.pt/Default.aspx?tabid=254) &mdash; Portal de dados que engloba todos os transportes de Lisboa.
 
 ## Porto
 
