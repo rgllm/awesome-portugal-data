@@ -9,6 +9,7 @@
 # Contents
 
 - [Portugal](#portugal)
+- [Açores](#acores)
 - [Aveiro](#aveiro)
 - [Beja](#beja)
 - [Braga](#braga)
@@ -20,6 +21,7 @@
 - [Guarda](#guarda)
 - [Leiria](#leiria)
 - [Lisboa](#lisboa)
+- [Madeira](#madeira)
 - [Portalegre](#portalegre)
 - [Porto](#porto)
 - [Santarém](#santarem)
@@ -27,8 +29,6 @@
 - [Viana do Castelo](#vianadocastelo)
 - [Vila Real](#vilareal)
 - [Viseu](#viseu)
-- [Madeira](#madeira)
-- [Açores](#acores)
 
 ## Portugal
 
@@ -40,7 +40,7 @@
 - [Infraestruturas de Portugal](http://www.infraestruturasdeportugal.pt/negocios-e-servicos/horarios/) &mdash; Horários e estado de circulação dos comboios.
 - [Dados na Justiça](https://dados.justica.gov.pt/) &mdash; Dados do Ministério da Justiça
 
-##Braga
+## Braga
 
 - [Dados Abertos de Guimarães](http://sig.cm-guimaraes.pt/dadosabertos/) &mdash; Portal de dados abertos de Guimarães.
 - [Transportes Urbanos de Braga](https://tub.pt/downloads/) &mdash; Portal de dados da TUB(Transportes Urbanos de Braga)
