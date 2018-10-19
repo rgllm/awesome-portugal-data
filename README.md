@@ -39,6 +39,8 @@
 - [Portal do Clima](http://portaldoclima.pt/en/) &mdash; Dados de clima.
 - [Infraestruturas de Portugal](http://www.infraestruturasdeportugal.pt/negocios-e-servicos/horarios/) &mdash; Horários e estado de circulação dos comboios.
 - [Dados na Justiça](https://dados.justica.gov.pt/) &mdash; Dados do Ministério da Justiça
+- [Faltas no Parlamento](https://labs.tretas.org/attendance/index/) &mdash; Portal contendo as faltas dos deputados a sessões plenárias do Parlamento.
+
 
 ## Braga
 
@@ -52,7 +54,9 @@
 - [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
 - [Cascais Data](https://data.cascais.pt/pt-pt) &mdash; Portal de dados abertos de Cascais.
 - [Transportlis](http://www.transporlis.pt/Default.aspx?tabid=254) &mdash; Portal de dados que engloba todos os transportes de Lisboa.
+- [Airbnb](http://tomslee.net/airbnb-data-collection-get-the-data) &mdash; Dados do Airbnb em Lisboa.
 
 ## Porto
 
 - [Dados Abertos do Porto](http://dadosabertos.cm-porto.pt/) &mdash; Portal de dados abertos do Porto.
+- [Airbnb](http://tomslee.net/airbnb-data-collection-get-the-data) Dados do Airbnb no Porto.
