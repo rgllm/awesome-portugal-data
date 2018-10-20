@@ -2,9 +2,9 @@
 
 # What is it?
 
-🇺🇸 **awesome-portugal-data** is a curated list of portuguese datasets. It is part of the movement [awesome on GitHub](https://github.com/sindresorhus/awesome). All contributions are very welcome.
+🇺🇸 **awesome-portugal-data** is a curated list of portuguese datasets. All contributions are very welcome.
 
-🇵🇹 **awesome-portugal-data** é uma lista de repositórios de dados abertos em Portugal. É parte do movimento [awesome on GitHub](https://github.com/sindresorhus/awesome). Qualquer contribuição é muito bem-vinda.
+🇵🇹 **awesome-portugal-data** é uma lista de repositórios de dados abertos em Portugal. Qualquer contribuição é muito bem-vinda.
 
 # Contents
 
@@ -40,7 +40,9 @@
 - [Infraestruturas de Portugal](http://www.infraestruturasdeportugal.pt/negocios-e-servicos/horarios/) &mdash; Horários e estado de circulação dos comboios.
 - [Dados na Justiça](https://dados.justica.gov.pt/) &mdash; Dados do Ministério da Justiça
 - [Faltas no Parlamento](https://labs.tretas.org/attendance/index/) &mdash; Portal contendo as faltas dos deputados a sessões plenárias do Parlamento.
-
+- [Jornal Público](https://www.publico.pt/api/list/ultimas) &mdash; API de notícias do jornal Público.
+- [Observador](https://observador.pt/wp-json/wp/v2/posts) &mdash; API de notícias do jornal Observador.
+- [Pordata](https://www.pordata.pt/) &mdash;  Estatísticas sobre Municípios, Portugal e Europa.
 
 ## Braga
 
@@ -59,4 +61,4 @@
 ## Porto
 
 - [Dados Abertos do Porto](http://dadosabertos.cm-porto.pt/) &mdash; Portal de dados abertos do Porto.
-- [Airbnb](http://tomslee.net/airbnb-data-collection-get-the-data) Dados do Airbnb no Porto.
+- [Airbnb](http://tomslee.net/airbnb-data-collection-get-the-data) &mdash; Dados do Airbnb no Porto.
