@@ -43,6 +43,8 @@
 - [Jornal Público](https://www.publico.pt/api/list/ultimas) &mdash; API de notícias do jornal Público.
 - [Observador](https://observador.pt/wp-json/wp/v2/posts) &mdash; API de notícias do jornal Observador.
 - [Pordata](https://www.pordata.pt/) &mdash;  Estatísticas sobre Municípios, Portugal e Europa.
+- [Portal Base](http://www.base.gov.pt) &mdash; Portal de contratos públicos ([API não oficial](https://github.com/ajcerejeira/base.gov.pt)).
+- [Comboios de Portugal](https://api.cp.pt/cp-api/) &mdash; API pública da CP - Comboios de Portugal. ([API não oficial](https://github.com/juliuste/comboios)).
 
 ## Braga
 
