@@ -47,6 +47,7 @@
 - [Comboios de Portugal](https://api.cp.pt/cp-api/) &mdash; API pública da CP - Comboios de Portugal. ([API não oficial](https://github.com/juliuste/comboios)).
 - [JRC Data Catalogue](http://data.jrc.ec.europa.eu/dataset?q=portugal) &mdash; Catálogo de dados da União Europeia sobre Portugal.
 - [Arquivo.pt](https://arquivo.pt/) &mdash; Arquivo da web portuguesa, disponibiliza uma API pública.
+- [IPMA](http://api.ipma.pt) &mdash; Dados de clima fornecidos pelo Instituto Português do Mar e Atmosfera.
 
 ## Braga
 
