@@ -49,6 +49,9 @@
 - [Arquivo.pt](https://arquivo.pt/) &mdash; Arquivo da web portuguesa, disponibiliza uma API pública.
 - [IPMA](http://api.ipma.pt) &mdash; Dados de clima fornecidos pelo Instituto Português do Mar e Atmosfera.
 
+## Aveiro
+- [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
+
 ## Braga
 
 - [Dados Abertos de Guimarães](http://sig.cm-guimaraes.pt/dadosabertos/) &mdash; Portal de dados abertos de Guimarães.
@@ -58,7 +61,6 @@
 
 - [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/) &mdash; Portal de dados abertos de Lisboa.
 - [Lisboa GeoDados](http://geodados.cm-lisboa.pt/) &mdash; Plataforma de dados abertos georreferenciados da Câmara Municipal de Lisboa
-- [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
 - [Cascais Data](https://data.cascais.pt/pt-pt) &mdash; Portal de dados abertos de Cascais.
 - [Transporlis](http://www.transporlis.pt/Default.aspx?tabid=254) &mdash; Portal de dados que engloba todos os transportes de Lisboa.
 - [Airbnb](http://tomslee.net/airbnb-data-collection-get-the-data) &mdash; Dados do Airbnb em Lisboa.
