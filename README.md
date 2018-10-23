@@ -53,13 +53,13 @@
 - [Dados Abertos de Guimarães](http://sig.cm-guimaraes.pt/dadosabertos/) &mdash; Portal de dados abertos de Guimarães.
 - [Transportes Urbanos de Braga](https://tub.pt/downloads/) &mdash; Portal de dados da TUB(Transportes Urbanos de Braga)
 
-
 ## Lisboa
 
 - [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/) &mdash; Portal de dados abertos de Lisboa.
+- [Lisboa GeoDados](http://geodados.cm-lisboa.pt/) &mdash; Plataforma de dados abertos georreferenciados da Câmara Municipal de Lisboa
 - [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
 - [Cascais Data](https://data.cascais.pt/pt-pt) &mdash; Portal de dados abertos de Cascais.
-- [Transportlis](http://www.transporlis.pt/Default.aspx?tabid=254) &mdash; Portal de dados que engloba todos os transportes de Lisboa.
+- [Transporlis](http://www.transporlis.pt/Default.aspx?tabid=254) &mdash; Portal de dados que engloba todos os transportes de Lisboa.
 - [Airbnb](http://tomslee.net/airbnb-data-collection-get-the-data) &mdash; Dados do Airbnb em Lisboa.
 
 ## Porto
