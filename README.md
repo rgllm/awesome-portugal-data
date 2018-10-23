@@ -47,6 +47,10 @@
 - [Comboios de Portugal](https://api.cp.pt/cp-api/) &mdash; API pública da CP - Comboios de Portugal. ([API não oficial](https://github.com/juliuste/comboios)).
 - [JRC Data Catalogue](http://data.jrc.ec.europa.eu/dataset?q=portugal) &mdash; Catálogo de dados da União Europeia sobre Portugal.
 - [Arquivo.pt](https://arquivo.pt/) &mdash; Arquivo da web portuguesa, disponibiliza uma API pública.
+- [IPMA](http://api.ipma.pt) &mdash; Dados de clima fornecidos pelo Instituto Português do Mar e Atmosfera.
+
+## Aveiro
+- [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
 
 ## Braga
 
@@ -58,7 +62,6 @@
 - [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/) &mdash; Portal de dados abertos de Lisboa.
 - [Lisboa GeoDados](http://geodados.cm-lisboa.pt/) &mdash; Plataforma de dados abertos georreferenciados da Câmara Municipal de Lisboa.
 - [EMEL Open Data](https://lisboa.city-platform.com/emel/opendata/) &mdash; Portal Dados Abertos da EMEL (Gira, Tráfego, Estacionamento, Ciclovias).
-- [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
 - [Cascais Data](https://data.cascais.pt/pt-pt) &mdash; Portal de dados abertos de Cascais.
 - [Transporlis](http://www.transporlis.pt/Default.aspx?tabid=254) &mdash; Portal de dados que engloba todos os transportes de Lisboa.
 - [Airbnb](http://tomslee.net/airbnb-data-collection-get-the-data) &mdash; Dados do Airbnb em Lisboa.
