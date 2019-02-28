@@ -8,6 +8,7 @@
 
 # Contents
 
+- [Europe](#europe)
 - [Portugal](#portugal)
 - [Açores](#acores)
 - [Aveiro](#aveiro)
@@ -29,6 +30,10 @@
 - [Viana do Castelo](#vianadocastelo)
 - [Vila Real](#vilareal)
 - [Viseu](#viseu)
+
+## Europe
+
+- [Open Patent System](https://developers.epo.org/) &mdash; Portal de patentes europeias
 
 ## Portugal
 
@@ -61,6 +66,7 @@
 - [Cascais Data](https://data.cascais.pt/pt-pt) &mdash; Portal de dados abertos de Cascais.
 - [Transportlis](http://www.transporlis.pt/Default.aspx?tabid=254) &mdash; Portal de dados que engloba todos os transportes de Lisboa.
 - [Airbnb](http://tomslee.net/airbnb-data-collection-get-the-data) &mdash; Dados do Airbnb em Lisboa.
+- [Tourism City SDK](https://tourism.citysdk.eu/endpoints/lisbon/) &mdash; Pontos de interesse e eventos em Lisboa.
 
 ## Porto
 
