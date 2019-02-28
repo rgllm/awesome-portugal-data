@@ -8,7 +8,7 @@
 
 # Contents
 
-- [Europe](#europe)
+- [Europa](#europa)
 - [Portugal](#portugal)
 - [Açores](#acores)
 - [Aveiro](#aveiro)
@@ -31,9 +31,9 @@
 - [Vila Real](#vilareal)
 - [Viseu](#viseu)
 
-## Europe
+## Europa
 
-- [Open Patent System](https://developers.epo.org/) &mdash; Portal de patentes europeias
+- [Open Patent System](https://developers.epo.org/) &mdash; Portal de patentes europeias.
 
 ## Portugal
 
