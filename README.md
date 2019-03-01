@@ -53,6 +53,7 @@
 - [JRC Data Catalogue](http://data.jrc.ec.europa.eu/dataset?q=portugal) &mdash; Catálogo de dados da União Europeia sobre Portugal.
 - [Arquivo.pt](https://arquivo.pt/) &mdash; Arquivo da web portuguesa, disponibiliza uma API pública.
 - [IPMA](http://api.ipma.pt) &mdash; Dados de clima fornecidos pelo Instituto Português do Mar e Atmosfera.
+- [SVN GOV](https://svn.gov.pt/) &mdash; Código fonte da administração pública.
 
 ## Aveiro
 - [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
