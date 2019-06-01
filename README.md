@@ -37,6 +37,7 @@
 
 ## Portugal
 
+- [OpenData BNPortugal](http://opendata.bnportugal.gov.pt/) &mdash; Catálogo bibliográfico da Biblioteca Nacional de Portugal, da Base Nacional de Dados Bibliográficos - PORBASE, a Bibliografia Nacional Portuguesa (desde 1931) e Biblioteca Nacional Digital
 - [dados.gov](https://dados.gov.pt/) &mdash; Portal de dados aberto da Administração Pública
 - [Central de Dados](http://centraldedados.pt/) &mdash; Repositório de dados abertos em Portugal (ex: incêndios, óbitos, eleições, nomes, etc.)
 - [Papis List](http://www.papislist.com/) &mdash; APIs públicas de todos os países
