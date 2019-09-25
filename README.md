@@ -6,7 +6,7 @@
 
 🇵🇹 **awesome-portugal-data** é uma lista de repositórios de dados abertos em Portugal. Qualquer contribuição é bem-vinda.
 
-# Contents
+# Content
 
 - [Europa](#europa)
 - [Portugal](#portugal)
