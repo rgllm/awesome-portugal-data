@@ -2,9 +2,9 @@
 
 # What is it?
 
-🇬🇧 **awesome-portugal-data** is a curated list of portuguese datasets. All contributions are very welcome.
+🇬🇧 **awesome-portugal-data** is a curated list of portuguese datasets. All contributions are welcome.
 
-🇵🇹 **awesome-portugal-data** é uma lista de repositórios de dados abertos em Portugal. Qualquer contribuição é muito bem-vinda.
+🇵🇹 **awesome-portugal-data** é uma lista de repositórios de dados abertos em Portugal. Qualquer contribuição é bem-vinda.
 
 # Contents
 
