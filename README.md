@@ -55,6 +55,7 @@
 - [Arquivo.pt](https://arquivo.pt/) &mdash; Arquivo da web portuguesa, disponibiliza uma API pública.
 - [IPMA](http://api.ipma.pt) &mdash; Dados de clima fornecidos pelo Instituto Português do Mar e Atmosfera.
 - [SVN GOV](https://svn.gov.pt/) &mdash; Código fonte da administração pública.
+- [NIF.PT](https://www.nif.pt/api/) &mdash; API para validar ou obter informações relacionadas a um NIF. 
 
 ## Aveiro
 - [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
