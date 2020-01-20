@@ -59,6 +59,7 @@
 - [Dataset do Portal Base](http://www.base.gov.pt/Base/pt/popup?A=433) &mdash; Dados dos contratos públicos do Portal BASE no formato Open Contracting Standard.
 - [Exames Nacionais](https://github.com/glima93/data_exams_06_18_PT/) &mdash; Dados de todos os estudantes que realizaram exames nacionais entre 2006 e 2018.
 - [Salário dos Professores](https://github.com/glima93/teacher_salaries_PT) &mdash; Dados sobre os salários dos professores em Portugal.
+- [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) &mdash; Portal com conjuntos de dados sobre informação turística.
 
 ## Aveiro
 - [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
