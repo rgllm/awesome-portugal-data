@@ -60,6 +60,7 @@
 - [Exames Nacionais](https://github.com/glima93/data_exams_06_18_PT/) &mdash; Dados de todos os estudantes que realizaram exames nacionais entre 2006 e 2018.
 - [Salário dos Professores](https://github.com/glima93/teacher_salaries_PT) &mdash; Dados sobre os salários dos professores em Portugal.
 - [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) &mdash; Portal com conjuntos de dados sobre informação turística.
+- [Biblioteca Nacional de Portugal (BNP)](http://opendata.bnportugal.gov.pt/) &mdash; Catálogo bibliográfico da BNP, da Base Nacional de Dados Bibliográficos - PORBASE, a Bibliografia Nacional Portuguesa (desde 1931) e Biblioteca Nacional Digital, entre outros.
 
 ## Aveiro
 - [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
@@ -83,3 +84,4 @@
 
 - [Dados Abertos do Porto](http://dadosabertos.cm-porto.pt/) &mdash; Portal de dados abertos do Porto.
 - [Airbnb](http://tomslee.net/airbnb-data-collection-get-the-data) &mdash; Dados do Airbnb no Porto.
+- [INESCTEC](https://rdm.inesctec.pt/) &mdash; Dados produzidos ou usados pelos investigadores do INESCTEC.
