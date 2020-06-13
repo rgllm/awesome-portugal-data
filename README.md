@@ -61,6 +61,8 @@
 - [Salário dos Professores](https://github.com/glima93/teacher_salaries_PT) &mdash; Dados sobre os salários dos professores em Portugal.
 - [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) &mdash; Portal com conjuntos de dados sobre informação turística.
 - [Biblioteca Nacional de Portugal (BNP)](http://opendata.bnportugal.gov.pt/) &mdash; Catálogo bibliográfico da BNP, da Base Nacional de Dados Bibliográficos - PORBASE, a Bibliografia Nacional Portuguesa (desde 1931) e Biblioteca Nacional Digital, entre outros.
+- [Direito em Dia](https://direitoemdia.pt/) &mdash; Pesquisa de Jurisprudência da Ordem dos Advogados.
+- [jurisprudência.pt](https://jurisprudencia.pt/) &mdash; Pesquisa de Jurisprudência.
 
 ## Aveiro
 - [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
