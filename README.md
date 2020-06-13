@@ -48,6 +48,7 @@
 - [Faltas no Parlamento](https://labs.tretas.org/attendance/index/) &mdash; Portal contendo as faltas dos deputados a sessões plenárias do Parlamento.
 - [Jornal Público](https://www.publico.pt/api/list/ultimas) &mdash; API de notícias do jornal Público.
 - [Jornal Observador](https://observador.pt/wp-json/obs_api/v4/news/widget) &mdash; API de notícias do jornal Observador.
+- [Jornal de Notícias](http://feeds.jn.pt/JN-Ultimas) &mdash; API de notícias do Jornal de Notícias.
 - [Pordata](https://www.pordata.pt/) &mdash;  Estatísticas sobre Municípios, Portugal e Europa.
 - [Portal Base](http://www.base.gov.pt) &mdash; Portal de contratos públicos ([API não oficial](https://github.com/ajcerejeira/base.gov.pt)).
 - [Comboios de Portugal](https://api.cp.pt/cp-api/) &mdash; API pública da CP - Comboios de Portugal. ([API não oficial](https://github.com/juliuste/comboios)).
