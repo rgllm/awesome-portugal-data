@@ -64,6 +64,7 @@
 - [Biblioteca Nacional de Portugal (BNP)](http://opendata.bnportugal.gov.pt/) &mdash; Catálogo bibliográfico da BNP, da Base Nacional de Dados Bibliográficos - PORBASE, a Bibliografia Nacional Portuguesa (desde 1931) e Biblioteca Nacional Digital, entre outros.
 - [Direito em Dia](https://direitoemdia.pt/) &mdash; Pesquisa de Jurisprudência da Ordem dos Advogados.
 - [jurisprudência.pt](https://jurisprudencia.pt/) &mdash; Pesquisa de Jurisprudência.
+- [Instituto Nacional de Estatística](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_api&INST=322751522&xlang=pt) &mdash; API da base de dados do INE.
 
 ## Aveiro
 - [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
