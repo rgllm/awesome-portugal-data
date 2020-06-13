@@ -37,7 +37,7 @@
 
 ## Portugal
 
-- [OpenData BNPortugal](http://opendata.bnportugal.gov.pt/) &mdash; Catálogo bibliográfico da Biblioteca Nacional de Portugal, da Base Nacional de Dados Bibliográficos - PORBASE, a Bibliografia Nacional Portuguesa (desde 1931) e Biblioteca Nacional Digital
+- [Biblioteca Nacional de Portugal (BNP)](http://opendata.bnportugal.gov.pt/) &mdash; Catálogo bibliográfico da Biblioteca Nacional de Portugal, da Base Nacional de Dados Bibliográficos - PORBASE, a Bibliografia Nacional Portuguesa (desde 1931) e Biblioteca Nacional Digital
 - [dados.gov](https://dados.gov.pt/) &mdash; Portal de dados aberto da Administração Pública
 - [Central de Dados](http://centraldedados.pt/) &mdash; Repositório de dados abertos em Portugal (ex: incêndios, óbitos, eleições, nomes, etc.)
 - [Papis List](http://www.papislist.com/) &mdash; APIs públicas de todos os países
@@ -61,7 +61,6 @@
 - [Exames Nacionais](https://github.com/glima93/data_exams_06_18_PT/) &mdash; Dados de todos os estudantes que realizaram exames nacionais entre 2006 e 2018.
 - [Salário dos Professores](https://github.com/glima93/teacher_salaries_PT) &mdash; Dados sobre os salários dos professores em Portugal.
 - [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) &mdash; Portal com conjuntos de dados sobre informação turística.
-- [Biblioteca Nacional de Portugal (BNP)](http://opendata.bnportugal.gov.pt/) &mdash; Catálogo bibliográfico da BNP, da Base Nacional de Dados Bibliográficos - PORBASE, a Bibliografia Nacional Portuguesa (desde 1931) e Biblioteca Nacional Digital, entre outros.
 - [Direito em Dia](https://direitoemdia.pt/) &mdash; Pesquisa de Jurisprudência da Ordem dos Advogados.
 - [jurisprudência.pt](https://jurisprudencia.pt/) &mdash; Pesquisa de Jurisprudência.
 - [Instituto Nacional de Estatística](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_api&INST=322751522&xlang=pt) &mdash; API da base de dados do INE.
