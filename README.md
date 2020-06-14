@@ -64,6 +64,8 @@
 - [Direito em Dia](https://direitoemdia.pt/) &mdash; Pesquisa de Jurisprudência da Ordem dos Advogados.
 - [jurisprudência.pt](https://jurisprudencia.pt/) &mdash; Pesquisa de Jurisprudência.
 - [Instituto Nacional de Estatística](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_api&INST=322751522&xlang=pt) &mdash; API da base de dados do INE.
+- [SNIRH - Boletim de temperatura](https://snirh.apambiente.pt/index.php?idMain=1&idItem=1.6) &mdash; Temperatura média mensal registadas.
+- [SNIRH - Águas Balneares](https://snirh.apambiente.pt/index.php?idMain=1&idItem=2.1) &mdash; Qualidade das águas balneares.
 
 ## Aveiro
 - [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
