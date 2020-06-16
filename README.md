@@ -84,6 +84,7 @@
 - [Transporlis](http://www.transporlis.pt/Default.aspx?tabid=254) &mdash; Portal de dados que engloba todos os transportes de Lisboa.
 - [Airbnb](http://tomslee.net/airbnb-data-collection-get-the-data) &mdash; Dados do Airbnb em Lisboa.
 - [Tourism City SDK](https://tourism.citysdk.eu/endpoints/lisbon/) &mdash; Pontos de interesse e eventos em Lisboa.
+- [FenixEdu IST](https://fenixedu.org/dev/api/) &mdash; API para a plataforma FenixEdu do IST.
 
 ## Porto
 
