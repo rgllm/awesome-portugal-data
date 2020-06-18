@@ -11,25 +11,12 @@
 - [Europa](#europa)
 - [Portugal](#portugal)
 - [Açores](#acores)
-- [Aveiro](#aveiro)
-- [Beja](#beja)
-- [Braga](#braga)
-- [Bragança](#braganca)
-- [Castelo Branco](#castelobranco)
-- [Coimbra](#coimbra)
-- [Évora](#evora)
-- [Faro](#faro)
-- [Guarda](#guarda)
-- [Leiria](#leiria)
+- [Algarve](#algarve)
+- [Alentejo](#alentejo)
+- [Centro](#centro)
 - [Lisboa](#lisboa)
 - [Madeira](#madeira)
-- [Portalegre](#portalegre)
-- [Porto](#porto)
-- [Santarém](#santarem)
-- [Setúbal](#setubal)
-- [Viana do Castelo](#vianadocastelo)
-- [Vila Real](#vilareal)
-- [Viseu](#viseu)
+- [Norte](#norte)
 
 ## Europa
 
@@ -69,14 +56,10 @@
 - [Feriados Portugueses](http://services.sapo.pt/Metadata/Contract/Holiday?culture=PT) &mdash; Lista de feriados nacionais, regionais e municipais. Suporta o cálculo dos feriados para os anos entre 1582 e 2299. 
 - [VOST- COVID19](https://covid19-api.vost.pt/) &mdash; API para dados da DGS sobre o COVID19.
 
-## Aveiro
+## Centro
+
 - [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
 - [Biblioteca da Universidade de Aveiro](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca) &mdash; API da biblioteca da Unviersidade de Aveiro (UA).
-
-## Braga
-
-- [Dados Abertos de Guimarães](http://sig.cm-guimaraes.pt/dadosabertos/) &mdash; Portal de dados abertos de Guimarães.
-- [Transportes Urbanos de Braga](https://tub.pt/downloads/) &mdash; Portal de dados da TUB(Transportes Urbanos de Braga)
 
 ## Lisboa
 
@@ -89,8 +72,10 @@
 - [Tourism City SDK](https://tourism.citysdk.eu/endpoints/lisbon/) &mdash; Pontos de interesse e eventos em Lisboa.
 - [FenixEdu IST](https://fenixedu.org/dev/api/) &mdash; API para a plataforma FenixEdu do IST.
 
-## Porto
+## Norte
 
+- [Dados Abertos de Guimarães](http://sig.cm-guimaraes.pt/dadosabertos/) &mdash; Portal de dados abertos de Guimarães.
+- [Transportes Urbanos de Braga](https://tub.pt/downloads/) &mdash; Portal de dados da TUB(Transportes Urbanos de Braga)
 - [Dados Abertos do Porto](http://dadosabertos.cm-porto.pt/) &mdash; Portal de dados abertos do Porto.
 - [Airbnb](http://tomslee.net/airbnb-data-collection-get-the-data) &mdash; Dados do Airbnb no Porto.
 - [INESCTEC](https://rdm.inesctec.pt/) &mdash; Dados produzidos ou usados pelos investigadores do INESCTEC.
