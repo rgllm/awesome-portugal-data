@@ -67,6 +67,7 @@
 - [SNIRH - Boletim de temperatura](https://snirh.apambiente.pt/index.php?idMain=1&idItem=1.6) &mdash; Temperatura média mensal registadas.
 - [SNIRH - Águas Balneares](https://snirh.apambiente.pt/index.php?idMain=1&idItem=2.1) &mdash; Qualidade das águas balneares.
 - [Feriados Portugueses](http://services.sapo.pt/Metadata/Contract/Holiday?culture=PT) &mdash; Lista de feriados nacionais, regionais e municipais. Suporta o cálculo dos feriados para os anos entre 1582 e 2299. 
+- [VOST- COVID19](https://covid19-api.vost.pt/) &mdash; API para dados da DGS sobre o COVID19.
 
 ## Aveiro
 - [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
