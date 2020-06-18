@@ -58,8 +58,14 @@
 
 ## Centro
 
-- [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) &mdash; Portal de dados abertos de Águeda.
-- [Biblioteca da Universidade de Aveiro](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca) &mdash; API da biblioteca da Unviersidade de Aveiro (UA).
+API | Descrição | Tipo | Autenticação
+-- | -- | :----------------: | :-------------: |
+[Biblioteca da Universidade de Aveiro](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca) | Biblioteca da Unviersidade de Aveiro (UA) | ![](https://img.shields.io/badge/REST-orange) | ❌ | 
+
+Dataset | Descrição |
+-- | -- |
+[Águeda Aberta](http://ckan.sig.cm-agueda.pt/) | Portal de dados abertos de Águeda. |
+
 
 ## Lisboa
 
