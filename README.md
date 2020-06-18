@@ -58,25 +58,30 @@
 
 ## Centro
 
-API | Descrição | Tipo | Autenticação
+API | Descrição | Tipo | Acesso
 -- | -- | :----------------: | :-------------: |
-[Biblioteca da Universidade de Aveiro](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca) | Biblioteca da Unviersidade de Aveiro (UA) | ![](https://img.shields.io/badge/REST-orange) | ❌ | 
+[Biblioteca da Universidade de Aveiro](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca) | Biblioteca da Unviersidade de Aveiro (UA) | ![](https://img.shields.io/badge/REST-orange) | 🔒 | 
 
 Dataset | Descrição |
 -- | -- |
-[Águeda Aberta](http://ckan.sig.cm-agueda.pt/) | Portal de dados abertos de Águeda. |
+[Águeda Aberta](http://ckan.sig.cm-agueda.pt/) | Portal de dados abertos de Águeda |
 
 
 ## Lisboa
 
-- [Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/) &mdash; Portal de dados abertos de Lisboa.
-- [Lisboa GeoDados](http://geodados.cm-lisboa.pt/) &mdash; Plataforma de dados abertos georreferenciados da Câmara Municipal de Lisboa.
-- [EMEL Open Data](https://emel.city-platform.com/opendata/) &mdash; Portal Dados Abertos da EMEL (Gira, Tráfego, Estacionamento, Ciclovias).
-- [Cascais Data](https://data.cascais.pt/pt-pt) &mdash; Portal de dados abertos de Cascais.
-- [Transporlis](http://www.transporlis.pt/Default.aspx?tabid=254) &mdash; Portal de dados que engloba todos os transportes de Lisboa.
-- [Airbnb](http://tomslee.net/airbnb-data-collection-get-the-data) &mdash; Dados do Airbnb em Lisboa.
-- [Tourism City SDK](https://tourism.citysdk.eu/endpoints/lisbon/) &mdash; Pontos de interesse e eventos em Lisboa.
-- [FenixEdu IST](https://fenixedu.org/dev/api/) &mdash; API para a plataforma FenixEdu do IST.
+API | Descrição | Tipo | Acesso
+-- | -- | :----------------: | :-------------: |
+[EMEL Open Data](https://emel.city-platform.com/opendata/) | Portal Dados Abertos da EMEL (Gira, Tráfego, Estacionamento, Ciclovias) | ![](https://img.shields.io/badge/REST-orange) | 🔓🔒 | 
+[FenixEdu IST](https://fenixedu.org/dev/api/) | Plataforma FenixEdu do IST | ![](https://img.shields.io/badge/REST-orange) | 🔓🔒 | 
+[Tourism City SDK](https://tourism.citysdk.eu/endpoints/lisbon/) | Pontos de interesse e eventos em Lisboa | ❓ | ❓ | 
+[Transporlis](http://www.transporlis.pt/Default.aspx?tabid=254) | Portal de dados que engloba todos os transportes de Lisboa | ![](https://img.shields.io/badge/REST-orange) | 🔓 | 
+
+Dataset | Descrição |
+-- | -- |
+[Airbnb](http://tomslee.net/airbnb-data-collection-get-the-data) | Dados do Airbnb em Lisboa | 
+[Cascais Data](https://data.cascais.pt/pt-pt) | Portal de dados abertos de Cascais | 
+[Lisboa Aberta](http://lisboaaberta.cm-lisboa.pt/index.php/pt/) | Portal de dados abertos de Lisboa | 
+[Lisboa GeoDados](http://geodados.cm-lisboa.pt/) | Plataforma de dados abertos georreferenciados da Câmara Municipal de Lisboa | 
 
 ## Norte
 
