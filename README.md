@@ -62,10 +62,6 @@ Dataset | Descrição |
 [Salário dos Professores](https://github.com/glima93/teacher_salaries_PT) | Dados sobre os salários dos professores em Portugal | 
 [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) | Portal com conjuntos de dados sobre informação turística | 
 
-- [SNIRH - Boletim de temperatura](https://snirh.apambiente.pt/index.php?idMain=1&idItem=1.6) &mdash; Temperatura média mensal registadas.
-- [Dataset do Portal Base](http://www.base.gov.pt/Base/pt/popup?A=433) &mdash; Dados dos contratos públicos do Portal BASE no formato Open Contracting Standard.
-- [Papis List](http://www.papislist.com/) &mdash; APIs públicas de todos os países
-
 ## Centro
 
 API | Descrição | Tipo | No-Auth
