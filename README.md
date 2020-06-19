@@ -20,61 +20,70 @@
 
 ## Europa
 
-- [Open Patent System](https://developers.epo.org/) &mdash; Portal de patentes europeias.
+API | Descrição | Tipo | No-Auth
+-- | -- | :----------------: | :-------------: |
+[Open Patent System](https://developers.epo.org/) | Portal de patentes europeias | ![](https://img.shields.io/badge/REST-orange) | ❌ | 
 
 ## Portugal
 
-- [Biblioteca Nacional de Portugal (BNP)](http://opendata.bnportugal.gov.pt/) &mdash; Catálogo bibliográfico da Biblioteca Nacional de Portugal, da Base Nacional de Dados Bibliográficos - PORBASE, a Bibliografia Nacional Portuguesa (desde 1931) e Biblioteca Nacional Digital
-- [dados.gov](https://dados.gov.pt/) &mdash; Portal de dados aberto da Administração Pública
-- [Central de Dados](http://centraldedados.pt/) &mdash; Repositório de dados abertos em Portugal (ex: incêndios, óbitos, eleições, nomes, etc.)
-- [Papis List](http://www.papislist.com/) &mdash; APIs públicas de todos os países
-- [Rádio Renascença](https://gitlab.com/Renascenca/dados) &mdash; Dados e código na base das histórias e interactivos em rr.sapo.pt
-- [Portal do Clima](http://portaldoclima.pt/en/) &mdash; Dados de clima.
-- [Infraestruturas de Portugal](http://www.infraestruturasdeportugal.pt/negocios-e-servicos/horarios/) &mdash; Horários e estado de circulação dos comboios.
-- [Dados na Justiça](https://dados.justica.gov.pt/) &mdash; Dados do Ministério da Justiça
-- [Faltas no Parlamento](https://labs.tretas.org/attendance/index/) &mdash; Portal contendo as faltas dos deputados a sessões plenárias do Parlamento.
-- [Jornal Público](https://www.publico.pt/api/list/ultimas) &mdash; API de notícias do jornal Público.
-- [Jornal Observador](https://observador.pt/wp-json/obs_api/v4/news/widget) &mdash; API de notícias do jornal Observador.
-- [Jornal de Notícias](http://feeds.jn.pt/JN-Ultimas) &mdash; API de notícias do Jornal de Notícias.
-- [Pordata](https://www.pordata.pt/) &mdash;  Estatísticas sobre Municípios, Portugal e Europa.
-- [Portal Base](http://www.base.gov.pt) &mdash; Portal de contratos públicos ([API não oficial](https://github.com/ajcerejeira/base.gov.pt)).
-- [Comboios de Portugal](https://api.cp.pt/cp-api/) &mdash; API pública da CP - Comboios de Portugal. ([API não oficial](https://github.com/juliuste/comboios)).
-- [JRC Data Catalogue](http://data.jrc.ec.europa.eu/dataset?q=portugal) &mdash; Catálogo de dados da União Europeia sobre Portugal.
-- [Arquivo.pt](https://arquivo.pt/) &mdash; Arquivo da web portuguesa, disponibiliza uma API pública.
-- [IPMA](http://api.ipma.pt) &mdash; Dados de clima fornecidos pelo Instituto Português do Mar e Atmosfera.
-- [SVN GOV](https://svn.gov.pt/) &mdash; Código fonte da administração pública.
-- [NIF.PT](https://www.nif.pt/api/) &mdash; API para validar ou obter informações relacionadas a um NIF.
-- [Dataset do Portal Base](http://www.base.gov.pt/Base/pt/popup?A=433) &mdash; Dados dos contratos públicos do Portal BASE no formato Open Contracting Standard.
-- [Exames Nacionais](https://github.com/glima93/data_exams_06_18_PT/) &mdash; Dados de todos os estudantes que realizaram exames nacionais entre 2006 e 2018.
-- [Salário dos Professores](https://github.com/glima93/teacher_salaries_PT) &mdash; Dados sobre os salários dos professores em Portugal.
-- [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) &mdash; Portal com conjuntos de dados sobre informação turística.
-- [Direito em Dia](https://direitoemdia.pt/) &mdash; Pesquisa de Jurisprudência da Ordem dos Advogados.
-- [jurisprudência.pt](https://jurisprudencia.pt/) &mdash; Pesquisa de Jurisprudência.
-- [Instituto Nacional de Estatística](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_api&INST=322751522&xlang=pt) &mdash; API da base de dados do INE.
+API | Descrição | Tipo | No-Auth
+-- | -- | :----------------: | :-------------: |
+[Central de Dados](http://centraldedados.pt/) | Repositório de dados abertos em Portugal (ex: incêndios, óbitos, eleições, nomes, etc.) | ![](https://img.shields.io/badge/JSON:API-blue) | ✅ | 
+[Comboios de Portugal](https://api.cp.pt/cp-api/) | API pública da CP [![](https://img.shields.io/badge/Client-Javascript-orange)](https://github.com/juliuste/comboios) | ![](https://img.shields.io/badge/REST-orange) | ❌ | 
+[dados.gov](https://dados.gov.pt/) | Portal de dados aberto da Administração Pública | ![](https://img.shields.io/badge/REST-orange) | ❌ |  
+[Feriados Portugueses](http://services.sapo.pt/Metadata/Contract/Holiday?culture=PT) | Lista de feriados nacionais, regionais e municipais. Suporta o cálculo dos feriados para os anos entre 1582 e 2299 | ![](https://img.shields.io/badge/Webservice-blue) | ✅ | 
+[IPMA](http://api.ipma.pt) | Dados de clima fornecidos pelo Instituto Português do Mar e Atmosfera | ![](https://img.shields.io/badge/Webservice-blue) | ✅ | 
+[Instituto Nacional de Estatística](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_api&INST=322751522&xlang=pt) | API da base de dados do INE | ![](https://img.shields.io/badge/REST-orange) ![](https://img.shields.io/badge/Webservice-blue) | ✅ | 
+[Jornal Observador](https://observador.pt/wp-json/obs_api/v4/news/widget) | API de notícias do jornal Observador | ![](https://img.shields.io/badge/JSON:API-blue) | ✅ | 
+[Jornal Público](https://www.publico.pt/api/list/ultimas) | API de notícias do jornal Público | ![](https://img.shields.io/badge/JSON:API-blue) | ✅ | 
+[Jornal de Notícias](http://feeds.jn.pt/JN-Ultimas) | API de notícias do Jornal de Notícias | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
+[NIF.PT](https://www.nif.pt/api/) | DAPI para validar ou obter informações relacionadas a um NIF | ![](https://img.shields.io/badge/Webservice-blue) | ❌ | 
+[VOST- COVID19](https://covid19-api.vost.pt/) | API para dados da DGS sobre o COVID19 | ![](https://img.shields.io/badge/REST-orange)| ✅ | 
+
+Dataset | Descrição |
+-- | -- |
+[Arquivo.pt](https://arquivo.pt/) | Arquivo da web portuguesa, disponibiliza uma API pública | 
+[Biblioteca Nacional de Portugal](http://opendata.bnportugal.gov.pt/) | Catálogo bibliográfico da Biblioteca Nacional de Portugal, da Base Nacional de Dados Bibliográficos - PORBASE, a Bibliografia Nacional Portuguesa (desde 1931) e Biblioteca Nacional Digital | 
+[Central de Dados](http://centraldedados.pt/) | Repositório de dados abertos em Portugal (ex: incêndios, óbitos, eleições, nomes, etc.) | 
+[dados.gov](https://dados.gov.pt/) | Portal de dados aberto da Administração Pública | 
+[Dados na Justiça](https://dados.justica.gov.pt/) | Dados do Ministério da Justiça | 
+[Direito em Dia](https://direitoemdia.pt/) | Pesquisa de Jurisprudência da Ordem dos Advogados | 
+[Exames Nacionais](https://github.com/glima93/data_exams_06_18_PT/) | Dados de todos os estudantes que realizaram exames nacionais entre 2006 e 2018 | 
+[Faltas no Parlamento](https://labs.tretas.org/attendance/index/) | Portal contendo as faltas dos deputados a sessões plenárias do Parlamento | 
+[Infraestruturas de Portugal](http://www.infraestruturasdeportugal.pt/negocios-e-servicos/horarios/) | Horários e estado de circulação dos comboios | 
+[JRC Data Catalogue](http://data.jrc.ec.europa.eu/dataset?q=portugal) | Catálogo de dados da União Europeia sobre Portugal | 
+[jurisprudência.pt](https://jurisprudencia.pt/) | Pesquisa de Jurisprudência | 
+[Pordata](https://www.pordata.pt/) | Estatísticas sobre Municípios, Portugal e Europa | 
+[Portal Base](http://www.base.gov.pt) | Portal de contratos públicos [![](https://img.shields.io/badge/Crawler-blue)](https://github.com/ajcerejeira/base.gov.pt) | 
+[Portal do Clima](http://portaldoclima.pt/en/) | Dados de clima | 
+[Rádio Renascença](https://gitlab.com/Renascenca/dados) | Dados e código na base das histórias e interactivos em rr.sapo.pt | 
+[SNIRH](https://snirh.apambiente.pt) | Dados do Sistema Nacional de Informação de Recursos Hidricos | 
+[SVN GOV](https://svn.gov.pt/) | Código fonte da administração pública | 
+[Salário dos Professores](https://github.com/glima93/teacher_salaries_PT) | Dados sobre os salários dos professores em Portugal | 
+[Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/) | Portal com conjuntos de dados sobre informação turística | 
+
 - [SNIRH - Boletim de temperatura](https://snirh.apambiente.pt/index.php?idMain=1&idItem=1.6) &mdash; Temperatura média mensal registadas.
-- [SNIRH - Águas Balneares](https://snirh.apambiente.pt/index.php?idMain=1&idItem=2.1) &mdash; Qualidade das águas balneares.
-- [Feriados Portugueses](http://services.sapo.pt/Metadata/Contract/Holiday?culture=PT) &mdash; Lista de feriados nacionais, regionais e municipais. Suporta o cálculo dos feriados para os anos entre 1582 e 2299. 
-- [VOST- COVID19](https://covid19-api.vost.pt/) &mdash; API para dados da DGS sobre o COVID19.
+- [Dataset do Portal Base](http://www.base.gov.pt/Base/pt/popup?A=433) &mdash; Dados dos contratos públicos do Portal BASE no formato Open Contracting Standard.
+- [Papis List](http://www.papislist.com/) &mdash; APIs públicas de todos os países
 
 ## Centro
 
-API | Descrição | Tipo | Acesso
+API | Descrição | Tipo | No-Auth
 -- | -- | :----------------: | :-------------: |
-[Biblioteca da Universidade de Aveiro](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca) | Biblioteca da Unviersidade de Aveiro (UA) | ![](https://img.shields.io/badge/REST-orange) | 🔒 | 
+[Biblioteca da Universidade de Aveiro](http://api.web.ua.pt/pt/services/universidade_de_aveiro/biblioteca) | Biblioteca da Unviersidade de Aveiro (UA) | ![](https://img.shields.io/badge/REST-orange) | ❌ | 
 
 Dataset | Descrição |
 -- | -- |
 [Águeda Aberta](http://ckan.sig.cm-agueda.pt/) | Portal de dados abertos de Águeda |
 
-
 ## Lisboa
 
-API | Descrição | Tipo | Acesso
+API | Descrição | Tipo | No-Auth
 -- | -- | :----------------: | :-------------: |
-[EMEL Open Data](https://emel.city-platform.com/opendata/) | Portal Dados Abertos da EMEL (Gira, Tráfego, Estacionamento, Ciclovias) | ![](https://img.shields.io/badge/REST-orange) | 🔓🔒 | 
-[FenixEdu IST](https://fenixedu.org/dev/api/) | Plataforma FenixEdu do IST | ![](https://img.shields.io/badge/REST-orange) | 🔓🔒 | 
+[EMEL Open Data](https://emel.city-platform.com/opendata/) | Portal Dados Abertos da EMEL (Gira, Tráfego, Estacionamento, Ciclovias) | ![](https://img.shields.io/badge/REST-orange) | ✅❌ | 
+[FenixEdu IST](https://fenixedu.org/dev/api/) | Plataforma FenixEdu do IST | ![](https://img.shields.io/badge/REST-orange) | ✅❌ | 
 [Tourism City SDK](https://tourism.citysdk.eu/endpoints/lisbon/) | Pontos de interesse e eventos em Lisboa | ❓ | ❓ | 
-[Transporlis](http://www.transporlis.pt/Default.aspx?tabid=254) | Portal de dados que engloba todos os transportes de Lisboa | ![](https://img.shields.io/badge/REST-orange) | 🔓 | 
+[Transporlis](http://www.transporlis.pt/Default.aspx?tabid=254) | Portal de dados que engloba todos os transportes de Lisboa | ![](https://img.shields.io/badge/REST-orange) | ✅ | 
 
 Dataset | Descrição |
 -- | -- |
@@ -85,8 +94,10 @@ Dataset | Descrição |
 
 ## Norte
 
-- [Dados Abertos de Guimarães](http://sig.cm-guimaraes.pt/dadosabertos/) &mdash; Portal de dados abertos de Guimarães.
-- [Transportes Urbanos de Braga](https://tub.pt/downloads/) &mdash; Portal de dados da TUB(Transportes Urbanos de Braga)
-- [Dados Abertos do Porto](http://dadosabertos.cm-porto.pt/) &mdash; Portal de dados abertos do Porto.
-- [Airbnb](http://tomslee.net/airbnb-data-collection-get-the-data) &mdash; Dados do Airbnb no Porto.
-- [INESCTEC](https://rdm.inesctec.pt/) &mdash; Dados produzidos ou usados pelos investigadores do INESCTEC.
+Dataset | Descrição |
+-- | -- |
+[Airbnb](http://tomslee.net/airbnb-data-collection-get-the-data) | Dados do Airbnb no Porto | 
+[Dados Abertos de Guimarães](http://sig.cm-guimaraes.pt/dadosabertos/) | Portal de dados abertos de Guimarães | 
+[Dados Abertos do Porto](http://dadosabertos.cm-porto.pt/) | Portal de dados abertos do Porto | 
+[INESCTEC](https://rdm.inesctec.pt/) | Dados produzidos ou usados pelos investigadores do INESCTEC | 
+[Transportes Urbanos de Braga](https://tub.pt/downloads/) | Portal de dados da TUB(Transportes Urbanos de Braga) | 
