@@ -1,6 +1,6 @@
 # Awesome Portugal Data [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 🇵🇹
 
-# What is this?
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 🇵🇹 **awesome-portugal-data** é uma lista de repositórios de dados abertos em Portugal. Qualquer contribuição é bem-vinda.  
 APIs marcados com ✅ não requerem tokens de acesso.
