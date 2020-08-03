@@ -41,6 +41,7 @@ API | Descrição | Tipo | No-Auth
 [Jornal de Notícias](http://feeds.jn.pt/JN-Ultimas) | API de notícias do Jornal de Notícias | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
 [NIF.PT](https://www.nif.pt/api/) | DAPI para validar ou obter informações relacionadas a um NIF | ![](https://img.shields.io/badge/Webservice-blue) | ❌ | 
 [VOST- COVID19](https://covid19-api.vost.pt/) | API para dados da DGS sobre o COVID19 | ![](https://img.shields.io/badge/REST-orange)| ✅ | 
+[RNT - Consulta Registos](https://registos.turismodeportugal.pt/) | Informação dos empreendimentos e empresas do turismo, agentes de animação turística e agências de viagens e turismo. | ![](https://img.shields.io/badge/Webservice-blue)| ✅ |
 
 Dataset | Descrição |
 -- | -- |
@@ -81,7 +82,7 @@ API | Descrição | Tipo | No-Auth
 [EMEL Open Data](https://emel.city-platform.com/opendata/) | Portal Dados Abertos da EMEL (Gira, Tráfego, Estacionamento, Ciclovias) | ![](https://img.shields.io/badge/REST-orange) | ✅❌ | 
 [FenixEdu IST](https://fenixedu.org/dev/api/) | Plataforma FenixEdu do IST | ![](https://img.shields.io/badge/REST-orange) | ✅❌ | 
 [Tourism City SDK](https://tourism.citysdk.eu/endpoints/lisbon/) | Pontos de interesse e eventos em Lisboa | ❓ | ❓ | 
-[Transporlis](http://www.transporlis.pt/Default.aspx?tabid=254) | Portal de dados que engloba todos os transportes de Lisboa | ![](https://img.shields.io/badge/REST-orange) | ✅ | 
+[Transporlis](http://www.transporlis.pt/Default.aspx?tabid=254) | Portal de dados que engloba todos os transportes de Lisboa | ![](https://img.shields.io/badge/REST-orange) | ✅ |
 
 Dataset | Descrição |
 -- | -- |
