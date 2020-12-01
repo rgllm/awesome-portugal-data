@@ -39,6 +39,7 @@ API | Descrição | Tipo | No-Auth
 [Jornal Observador](https://observador.pt/wp-json/obs_api/v4/news/widget) | API de notícias do jornal Observador | ![](https://img.shields.io/badge/JSON:API-blue) | ✅ | 
 [Jornal Público](https://www.publico.pt/api/list/ultimas) | API de notícias do jornal Público | ![](https://img.shields.io/badge/JSON:API-blue) | ✅ | 
 [Jornal de Notícias](http://feeds.jn.pt/JN-Ultimas) | API de notícias do Jornal de Notícias | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
+[Jornal ECO](https://eco.sapo.pt/wp-json/eco/v1/items) | API de notícias do Jornal Eco | ![](https://img.shields.io/badge/JSON:API-blue) | ✅ | 
 [Extração de notícias](https://pt-news-extractor.herokuapp.com/api/v1/) | API para a extração de notícias de jornais portugueses| ![](https://img.shields.io/badge/JSON:API-blue) | ✅ |
 [NIF.PT](https://www.nif.pt/api/) | API para validar ou obter informações relacionadas a um NIF | ![](https://img.shields.io/badge/Webservice-blue) | ❌ | 
 [VOST- COVID19](https://covid19-api.vost.pt/) | API para dados da DGS sobre o COVID19 | ![](https://img.shields.io/badge/REST-orange)| ✅ | 
