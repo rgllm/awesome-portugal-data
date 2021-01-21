@@ -39,12 +39,13 @@ API | Descrição | Tipo | No-Auth
 [Instituto Nacional de Estatística](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_api&INST=322751522&xlang=pt) | API da base de dados do INE | ![](https://img.shields.io/badge/REST-orange) ![](https://img.shields.io/badge/Webservice-blue) | ✅ | 
 [Jornal Observador](https://observador.pt/wp-json/obs_api/v4/news/widget) | API de notícias do jornal Observador | ![](https://img.shields.io/badge/JSON:API-blue) | ✅ | 
 [Jornal Público](https://www.publico.pt/api/list/ultimas) | API de notícias do jornal Público | ![](https://img.shields.io/badge/JSON:API-blue) | ✅ | 
-[Jornal de Notícias](http://feeds.jn.pt/JN-Ultimas) | API de notícias do Jornal de Notícias | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
+[Jornal de Notícias](http://feeds.jn.pt/JN-Ultimas) | API de notícias do Jornal de Notícias [![](https://img.shields.io/badge/mais-endpoints-pink)](https://www.jn.pt/apps-rss.html) | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
 [Jornal ECO](https://eco.sapo.pt/wp-json/eco/v1/items) | API de notícias do Jornal Eco | ![](https://img.shields.io/badge/JSON:API-blue) | ✅ | 
 [Diário de Notícias](http://feeds.dn.pt/DN-Ultimas) | API de notícias do Diário de Notícias | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
-[TSF](http://feeds.tsf.pt/TSF-Ultimas) | API de notícias da TSF | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
-[O Jogo](http://feeds.ojogo.pt/OJ-Ultimas) | API de notícias do Jornal O Jogo | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
+[TSF](http://feeds.tsf.pt/TSF-Ultimas) | API de notícias da TSF [![](https://img.shields.io/badge/mais-endpoints-pink)](https://www.tsf.pt/apps-rss.html) | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
+[O Jogo](http://feeds.ojogo.pt/OJ-Ultimas) | API de notícias do Jornal O Jogo [![](https://img.shields.io/badge/mais-endpoints-pink)](https://www.ojogo.pt/apps-rss.html) | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
 [Dinheiro Vivo](http://feeds.dinheirovivo.pt/DV-Ultimas) | API de notícias do Dinheiro Vivo | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
+[Notícias ao Minuto](https://www.noticiasaominuto.com/rss) | API de notícias do Notícias ao Minuto | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
 [Extração de notícias](https://pt-news-extractor.herokuapp.com/api/v1/) | API para a extração de notícias de jornais portugueses| ![](https://img.shields.io/badge/JSON:API-blue) | ✅ |
 [NIF.PT](https://www.nif.pt/api/) | API para validar ou obter informações relacionadas a um NIF | ![](https://img.shields.io/badge/Webservice-blue) | ❌ | 
 [VOST- COVID19](https://covid19-api.vost.pt/) | API para dados da DGS sobre o COVID19 | ![](https://img.shields.io/badge/REST-orange)| ✅ | 
