@@ -46,6 +46,9 @@ API | Descrição | Tipo | No-Auth
 [O Jogo](http://feeds.ojogo.pt/OJ-Ultimas) | API de notícias do Jornal O Jogo [![](https://img.shields.io/badge/mais-endpoints-pink)](https://www.ojogo.pt/apps-rss.html) | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
 [Dinheiro Vivo](http://feeds.dinheirovivo.pt/DV-Ultimas) | API de notícias do Dinheiro Vivo | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
 [Notícias ao Minuto](https://www.noticiasaominuto.com/rss) | API de notícias do Notícias ao Minuto | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
+[RTP Notícias](https://www.rtp.pt/noticias/rss/) | API de notícias da RTP Notícias [![](https://img.shields.io/badge/mais-endpoints-pink)](https://www.rtp.pt/noticias/rss/feeds) | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
+[XL](https://www.xl.pt/xl/rss.shtml) | API de notícias do XL | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
+[Renascença](https://rr.sapo.pt/rss) | API de notícias da Reanscença | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
 [Extração de notícias](https://pt-news-extractor.herokuapp.com/api/v1/) | API para a extração de notícias de jornais portugueses| ![](https://img.shields.io/badge/JSON:API-blue) | ✅ |
 [NIF.PT](https://www.nif.pt/api/) | API para validar ou obter informações relacionadas a um NIF | ![](https://img.shields.io/badge/Webservice-blue) | ❌ | 
 [VOST- COVID19](https://covid19-api.vost.pt/) | API para dados da DGS sobre o COVID19 | ![](https://img.shields.io/badge/REST-orange)| ✅ | 
