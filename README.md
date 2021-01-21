@@ -32,6 +32,7 @@ API | Descrição | Tipo | No-Auth
 -- | -- | :----------------: | :-------------: |
 [Central de Dados](http://centraldedados.pt/) | Repositório de dados abertos em Portugal (ex: incêndios, óbitos, eleições, nomes, etc.) | ![](https://img.shields.io/badge/JSON:API-blue) | ✅ | 
 [Comboios de Portugal](https://api.cp.pt/cp-api/) | API pública da CP [![](https://img.shields.io/badge/Client-Javascript-orange)](https://github.com/juliuste/comboios) | ![](https://img.shields.io/badge/REST-orange) | ❌ | 
+[Metropolitano de Lisboa](https://api.metrolisboa.pt/store) | API pública do Metropolitano de Lisboa | ![](https://img.shields.io/badge/REST-ful-orange) | ❌ |
 [dados.gov](https://dados.gov.pt/) | Portal de dados aberto da Administração Pública | ![](https://img.shields.io/badge/REST-orange) | ❌ |  
 [Feriados Portugueses](http://services.sapo.pt/Metadata/Contract/Holiday?culture=PT) | Lista de feriados nacionais, regionais e municipais. Suporta o cálculo dos feriados para os anos entre 1582 e 2299 | ![](https://img.shields.io/badge/Webservice-blue) | ✅ | 
 [IPMA](http://api.ipma.pt) | Dados de clima fornecidos pelo Instituto Português do Mar e Atmosfera | ![](https://img.shields.io/badge/Webservice-blue) | ✅ | 
@@ -40,6 +41,10 @@ API | Descrição | Tipo | No-Auth
 [Jornal Público](https://www.publico.pt/api/list/ultimas) | API de notícias do jornal Público | ![](https://img.shields.io/badge/JSON:API-blue) | ✅ | 
 [Jornal de Notícias](http://feeds.jn.pt/JN-Ultimas) | API de notícias do Jornal de Notícias | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
 [Jornal ECO](https://eco.sapo.pt/wp-json/eco/v1/items) | API de notícias do Jornal Eco | ![](https://img.shields.io/badge/JSON:API-blue) | ✅ | 
+[Diário de Notícias](http://feeds.dn.pt/DN-Ultimas) | API de notícias do Diário de Notícias | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
+[TSF](http://feeds.tsf.pt/TSF-Ultimas) | API de notícias da TSF | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
+[O Jogo](http://feeds.ojogo.pt/OJ-Ultimas) | API de notícias do Jornal O Jogo | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
+[Dinheiro Vivo](http://feeds.dinheirovivo.pt/DV-Ultimas) | API de notícias do Dinheiro Vivo | ![](https://img.shields.io/badge/RSS-blue) | ✅ | 
 [Extração de notícias](https://pt-news-extractor.herokuapp.com/api/v1/) | API para a extração de notícias de jornais portugueses| ![](https://img.shields.io/badge/JSON:API-blue) | ✅ |
 [NIF.PT](https://www.nif.pt/api/) | API para validar ou obter informações relacionadas a um NIF | ![](https://img.shields.io/badge/Webservice-blue) | ❌ | 
 [VOST- COVID19](https://covid19-api.vost.pt/) | API para dados da DGS sobre o COVID19 | ![](https://img.shields.io/badge/REST-orange)| ✅ | 
