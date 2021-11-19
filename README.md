@@ -2,10 +2,12 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-🇵🇹 **awesome-portugal-data** é uma lista de repositórios de dados abertos em Portugal. Qualquer contribuição é bem-vinda.  
+🇵🇹 **awesome-portugal-data** é uma lista de repositórios de dados abertos em
+Portugal. Qualquer contribuição é bem-vinda.  
 APIs marcados com ✅ não requerem tokens de acesso.
 
-🇬🇧 **awesome-portugal-data** is a curated list of portuguese datasets. All contributions are welcome.  
+🇬🇧 **awesome-portugal-data** is a curated list of portuguese datasets. All
+contributions are welcome.  
 APIs marked with ✅ do not require any access tokens.
 
 # Content
@@ -54,8 +56,8 @@ APIs marked with ✅ do not require any access tokens.
 | [NIF.PT](https://www.nif.pt/api/)                                                                                    | API para validar ou obter informações relacionadas a um NIF                                                                    |                        ![](https://img.shields.io/badge/Webservice-blue)                        |   ❌    |
 | [VOST- COVID19](https://covid19-api.vost.pt/)                                                                        | API para dados da DGS sobre o COVID19                                                                                          |                          ![](https://img.shields.io/badge/REST-orange)                          |   ✅    |
 | [RNT - Consulta Registos](https://registos.turismodeportugal.pt/)                                                    | Informação dos empreendimentos e empresas do turismo, agentes de animação turística e agências de viagens e turismo.           |                        ![](https://img.shields.io/badge/Webservice-blue)                        |   ✅    |
-| [GEO PT API](https://www.geoptapi.org/)                                                    | Informação sobre divisões administrativas de Portugal.           |                        ![](https://img.shields.io/badge/JSON:API-blue)                        |   ✅    |
-
+| [GEO PT API](https://www.geoptapi.org/)                                                                              | Informação sobre divisões administrativas de Portugal.                                                                         |                         ![](https://img.shields.io/badge/JSON:API-blue)                         |   ✅    |
+| [Dados Abertos do Parlamento](https://www.parlamento.pt/Cidadania/Paginas/DadosAbertos.aspx)                         | Dados abertos relativos à atividade parlamentar.                                                                               |                         ![](https://img.shields.io/badge/JSON:API-blue)                         |   ✅    |
 
 | Dataset                                                                                              | Descrição                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
