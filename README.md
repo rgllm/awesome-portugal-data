@@ -81,7 +81,7 @@ APIs marked with ✅ do not require any access tokens.
 | [SVN GOV](https://svn.gov.pt/)                                                                       | Código fonte da administração pública                                                                                                                                                        |
 | [Salário dos Professores](https://github.com/glima93/teacher_salaries_PT)                            | Dados sobre os salários dos professores em Portugal                                                                                                                                          |
 | [Turismo de Portugal](https://dadosabertos.turismodeportugal.pt/)                                    | Portal com conjuntos de dados sobre informação turística                                                                                                                                     |
-| [Resultados Eleitorais por Freguesia](https://github.com/Duartemartins/dados)                        | Scrape de dados retirados do MAI disponibilizado em CSV                                                                                                                                      |
+| [Resultados Eleitorais das Legislativas 2022 por Freguesia](https://github.com/Duartemartins/dados)  | Scrape de dados retirados do MAI disponibilizado em CSV                                                                                                                                      |
 
 ## Centro
 
