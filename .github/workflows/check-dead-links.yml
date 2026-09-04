@@ -5,29 +5,37 @@ on:
     - cron: '0 0 1 * *'
   workflow_dispatch:
 
+permissions:
+  issues: write
+
 jobs:
   check-links:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Check links in README
+        id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          args: README.md --verbose --no-progress --exclude-mail
-          fail: true
+          args: '--verbose --no-progress README.md'
+          fail: false
 
-      - name: Create issue if dead links found
-        if: failure()
-        uses: actions/github-script@v7
+      - name: Find existing dead-links issue
+        id: find-issue
+        if: steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          issue_number=$(gh issue list --state open --json number,title \
+            --jq '.[] | select(.title == "Dead links found in README") | .number' | head -n 1)
+          echo "issue-number=$issue_number" >> "$GITHUB_OUTPUT"
+
+      - name: Create or update dead-links issue
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
         with:
-          script: |
-            const fs = require('fs');
-            const report = fs.readFileSync('lychee/out.md', 'utf8');
-            github.rest.issues.create({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              title: 'Dead links found in README',
-              body: `Dead links were detected in the README:\n\n${report}`,
-              labels: ['bug']
-            });
+          title: Dead links found in README
+          content-filepath: ./lychee/out.md
+          issue-number: ${{ steps.find-issue.outputs.issue-number }}
+          labels: bug
